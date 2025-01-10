@@ -1,0 +1,27 @@
+.Centered{
+    text-align: center;
+}
+.Large {
+    font-size: large;
+}
+#Name {
+    color: blue;
+    font-size: 77px;
+    font-family: fantasy;
+}
+
+h1 {
+    color: red;
+    font-size: 50px;
+}
+
+h3.About {
+    color: gold;
+    font-size: 20px;
+}
+
+
+
+td:hover {
+    color: blue
+}
